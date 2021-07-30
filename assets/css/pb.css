@@ -31,7 +31,7 @@
         }
         #fill {
             padding: 2px 0;
-            background-color: #90b239; /* Fill colour */
+            background-color: #23cdc6; /* Fill colour */
             width: 65%; /* Bar percentage, change text below also */
             border-radius: 25px; /* Roundness */
             animation: proanimate 2s;
